@@ -1,3 +1,4 @@
+This is my first application of ROR project this is Phani Kumar
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
